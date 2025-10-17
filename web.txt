@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mera Pehla Website</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>Yeh mera pehla website hai.</p>
+</body>
+</html>
